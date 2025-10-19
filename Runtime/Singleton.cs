@@ -1,5 +1,5 @@
 using UnityEngine;
-namespace ZJM.Runtime.Singleton
+namespace ZJM_ArchitectureUtilities.Runtime
 {
     public class Singleton<T> : MonoBehaviour where T : Singleton<T>
     {

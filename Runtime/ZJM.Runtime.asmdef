@@ -1,5 +1,5 @@
 {
-  "name": "ZJM.Runtime.Singleton",
+  "name": "ZJM_ArchitectureUtilities.Runtime",
   "references": [],
   "includePlatforms": [],
   "excludePlatforms": [],
