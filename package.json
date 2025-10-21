@@ -1,6 +1,6 @@
 {
   "name": "com.peterparkers.genericsingleton-kit",
-  "displayName": "GenericSingleton",
+  "displayName": "ZJM_ToolBox",
   "version": "1.0.0",
   "description": "Convenient for using the singleton pattern",
   "unity": "2022.3",
