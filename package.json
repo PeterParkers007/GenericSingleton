@@ -1,12 +1,12 @@
 {
-  "name": "com.peterparkers.genericsingleton-kit",
-  "displayName": "ZJM_ToolBox",
+  "name": "com.tech-cosmos.toolbox",
+  "displayName": "ToolBox",
   "version": "1.0.0",
   "description": "Convenient for using the singleton pattern",
   "unity": "2022.3",
   "author": {
-    "name": "张锦铭",
+    "name": "Tech-Cosmos",
     "email": "3427463164@qq.com",
-    "url": "https://github.com/PeterParkers007"
+    "url": "https://github.com/PeterParkers007/Tech-Cosmos.git"
   }
 }
