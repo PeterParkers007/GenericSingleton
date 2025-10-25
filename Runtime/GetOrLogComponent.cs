@@ -1,5 +1,5 @@
 using UnityEngine;
-namespace ZJM_ArchitectureUtilities.Runtime
+namespace TechCosmos.ToolBox.Runtime
 {
     public static class ComponentTools
     {
