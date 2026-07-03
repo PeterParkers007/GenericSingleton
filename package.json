@@ -1,8 +1,8 @@
 {
   "name": "com.tech-cosmos.toolbox",
   "displayName": "ToolBox",
-  "version": "1.0.0",
-  "description": "Convenient for using the singleton pattern",
+  "version": "1.0.2",
+  "description": "Runtime 工具集（Singleton、Timer 等）与 Editor 菜单（一键重启项目等）。",
   "unity": "2022.3",
   "author": {
     "name": "Tech-Cosmos",
